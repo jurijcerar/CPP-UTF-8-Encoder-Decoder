@@ -1,0 +1,10 @@
+Type 1 for encoding and 2 for decoding
+When encoding specify the input type:
+1. Decimal
+2. Hexdecimal
+3. Binary
+The output will be in both binary in hexdecimal
+When decoding specify the input type:
+1. Hexdecimal
+2. Binary
+The output will be in decimal
